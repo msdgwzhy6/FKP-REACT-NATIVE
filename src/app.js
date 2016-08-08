@@ -28,6 +28,10 @@ global.images = images;
 global.apis = apis(cfg());
 global._apis = _apis(cfg());
 
+
+import OpenURLButton from 'comp/widgets/Anchor';
+global.A = OpenURLButton;
+
 global.req = req;
 
 

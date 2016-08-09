@@ -2,17 +2,26 @@
 it's a simple framework for react-native, with router, socket.io and SAX etc...   
 FKP-REACT-NATIVE兼容android和ios, 基于node的寻址结构，import的时候，省略不必要的`../../`  
 
+[1]:http://www.agzgz.com/uploader/web-214634867849606177520925611446951.gif    
+[2]:http://www.agzgz.com/uploader/web-10371096658112267040971650214665534.gif  
+
+| IOS | Android |
+| -------------| ----- |
+| ![ios.gif][1] | ![ios.gif][2] |
+
 ## dependencies
+myself environment
 ```
-node = 6.0+  
+node = 6.2.2  
 npm = 3.0+  
 rnpm = latest
 react-native = 0.30+
-react-native-cli = 1.0+
+react-native-cli = 1.0.0+
 
 // win/mac/linux的安装环境，请大家自行搜索一下
 npm install -g node-pre-gyp
 npm install -g react-native-cli
+npm install -g rnpm
 ```
 
 ## Install  

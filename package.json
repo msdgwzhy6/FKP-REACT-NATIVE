@@ -6,6 +6,8 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "fkp-sax": "^1.0.0",
+    "lodash": "^4.13.1",
     "react": "^15.2.1",
     "react-addons-pure-render-mixin": "^15.3.0",
     "react-native": "^0.30.0",
@@ -22,7 +24,6 @@
   },
   "devDependencies": {
     "clamp": "^1.0.1",
-    "lodash": "^4.13.1",
     "react-timer-mixin": "^0.13.3"
   }
 }

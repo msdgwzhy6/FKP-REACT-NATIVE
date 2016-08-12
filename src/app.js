@@ -6,7 +6,7 @@
 
 import _ from 'lodash';
 import cfg from './fkp.config';
-import SAX from 'comm/sax';
+import SAX from 'fkp-sax';
 import Toast from 'react-native-root-toast';
 global.H5Back = false;   // h5页面后退
 global._ = _;
